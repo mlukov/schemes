@@ -1,0 +1,46 @@
+<scheme name="Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-08-17T11:35:13</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.1.4.0</property>
+    <property name="modified">2018-08-17T11:35:58</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_CLASS">
+      <value>
+        <option name="FOREGROUND" value="e1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="e1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="7a7413" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="7a7413" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="42729d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
